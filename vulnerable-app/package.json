@@ -4,5 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node src/app.js"
+  },
+  "dependencies": {
+    "zod": "^3.24.1"
   }
 }
