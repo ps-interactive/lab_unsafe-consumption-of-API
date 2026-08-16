@@ -1,0 +1,5 @@
+{
+  "city": "<script>alert('XSS')</script>",
+  "temperature": 92,
+  "condition": "Sunny"
+}
